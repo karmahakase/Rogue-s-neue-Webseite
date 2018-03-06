@@ -1,0 +1,40 @@
+body {
+background-image: url(bilder/bg.png);
+
+}
+
+header{
+height: 420px;
+background-image: url(bilder/header.png);
+background-size: contain;
+background-repeat: no-repeat;
+}
+ul{
+list-style-image: url(bilder/bullet.png);
+
+
+}
+
+nav{
+position: fixed;
+font-size: 20px;
+
+}
+
+font {
+font-family: the_light_font;
+
+}
+/*
+font.kenyan {
+font-family: kenyan_coffee;
+
+}
+
+@font-face {
+font-family: 'kenyan_coffee';
+src: url("kenyan_coffee/kenyan coffee rg it.ttf") format('truetype'); }*/
+
+@font-face {
+font-family: 'the_light_font';
+src: url("the_light_font/TheLightFont.ttf") format('truetype'); }
